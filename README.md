@@ -44,7 +44,8 @@ Resources for a talk on Xamarin and Azure at Plymouth University
 
 * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
 * [Custom Vision](https://www.customvision.ai/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
-* [Azure notebooks](https://notebooks.azure.com/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
+* [Azure Notebooks](https://notebooks.azure.com/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
+* [Using Ok.py to assess Azure Notebooks](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/06/10/innovative-assessment-by-deploying-ok-py-and-microsoft-azure-at-imperial-college/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
 
 ### IoT
 
@@ -57,3 +58,4 @@ Resources for a talk on Xamarin and Azure at Plymouth University
 * [Microsoft Student Partners](https://studentpartners.microsoft.com/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
 * [Imagine Cup](https://imaginecup.microsoft.com/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
 * [Azure Dev Tools for Students](https://azureforeducation.microsoft.com/devtools/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
+* [Microsoft Certifications for Students](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/12/18/microsoft-technology-associate-certification-at-the-university-of-lincoln/?WT.mc_id=xamarinandazureforplymouth-github-jabenn)
