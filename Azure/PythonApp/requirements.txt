@@ -1,0 +1,4 @@
+flask
+azure.cosmos
+requests
+azure-cognitiveservices-vision-computervision

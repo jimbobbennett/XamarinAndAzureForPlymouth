@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="takePhoto">Take Photo</string>
+    <string name="sendPhoto">Send Photo</string>
+    <string name="app_name">Number Taker</string>
+</resources>

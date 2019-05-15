@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/jimbennett/Library/Arduino15/packages/AZ3166/tools/**",
+                "/Users/jimbennett/Library/Arduino15/packages/AZ3166/hardware/stm32f4/1.6.1/**"
+            ],
+            "forcedInclude": [
+                "/Users/jimbennett/Library/Arduino15/packages/AZ3166/hardware/stm32f4/1.6.1/cores/arduino/Arduino.h"
+            ]
+        }
+    ]
+}

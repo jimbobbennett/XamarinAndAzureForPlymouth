@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:NumberTaker.Forms" 
+             x:Class="NumberTaker.Forms.MainPage"
+             Padding="20">
+    <ContentPage.BindingContext>
+        <local:PhotoViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <Image VerticalOptions="FillAndExpand" 
+               HorizontalOptions="Fill"
+               Source="{Binding ImageSource}" 
+               Aspect="AspectFill"/>
+        <Button Text="Take Photo" 
+                TextColor="White" 
+                BackgroundColor="#D400D4"
+                Command="{Binding TakePhotoCommand}"/>
+        <Button Text="Send Photo" 
+                TextColor="White" 
+                BackgroundColor="#FFBB38"
+                Command="{Binding SendPhotoCommand}"/>
+    </StackLayout>
+</ContentPage>

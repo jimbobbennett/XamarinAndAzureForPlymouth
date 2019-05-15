@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <body>
+        <h1>Numbers:</h1>
+        <br/>
+        <table border = 1>
+            <tr>
+                <th>Number</th>
+            </tr>
+            {% for row in result %}
+                <tr>
+                    <td> {{ row.Number }} </td>
+                </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>
